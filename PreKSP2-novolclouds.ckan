@@ -1,0 +1,133 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "PreKSP2-novolclouds",
+    "name": "PreKSP2-novolclouds",
+    "abstract": "A list of modules installed on the Pre-KSP2 KSP instance",
+    "author": [
+        "waffl"
+    ],
+    "version": "2023.02.07.02.49.40",
+    "ksp_version_min": "1.8",
+    "ksp_version_max": "1.12",
+    "license": [
+        "unknown"
+    ],
+    "depends": [
+        {
+            "name": "AdjustableModPanel"
+        },
+        {
+            "name": "AstronomersVisualPack"
+        },
+        {
+            "name": "AVP-4kTextures"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "BetterTimeWarpCont"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "DistantObject-default"
+        },
+        {
+            "name": "EasyVesselSwitch"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Harmony2"
+        },
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "ModularFlightIntegrator"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "PALETTE"
+        },
+        {
+            "name": "Parallax"
+        },
+        {
+            "name": "Parallax-StockScatterTextures"
+        },
+        {
+            "name": "Parallax-StockTextures"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "PlanetShine-Config-Default"
+        },
+        {
+            "name": "RealPlume"
+        },
+        {
+            "name": "RealPlume-StockConfigs"
+        },
+        {
+            "name": "ReentryParticleEffect"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "RocketSoundEnhancement"
+        },
+        {
+            "name": "RocketSoundEnhancement-Config-Default"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Scatterer-config"
+        },
+        {
+            "name": "Scatterer-sunflare"
+        },
+        {
+            "name": "SmokeScreen"
+        },
+        {
+            "name": "SRBWaterfallEffects"
+        },
+        {
+            "name": "StockWaterfallEffects"
+        },
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "TUFX"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "WaterfallRestock"
+        }
+    ],
+    "release_date": "2023-02-07T08:49:40.4697229-06:00",
+    "kind": "metapackage"
+}
