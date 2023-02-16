@@ -1,0 +1,190 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "installed-OW2-2",
+    "name": "installed-OW2-2",
+    "abstract": "A list of modules installed on the OW2-2 KSP instance",
+    "author": [
+        "waffl"
+    ],
+    "version": "2023.02.16.03.39.49",
+    "ksp_version_min": "1.8",
+    "ksp_version_max": "1.12",
+    "license": [
+        "unknown"
+    ],
+    "depends": [
+        {
+            "name": "AdjustableModPanel"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "BetterTimeWarpCont"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "CommunityTerrainTexturePack"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "CryoTanks-Core"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "DistantObject-default"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        },
+        {
+            "name": "EasyVesselSwitch"
+        },
+        {
+            "name": "FarFutureTechnologies"
+        },
+        {
+            "name": "FullAutoStrut"
+        },
+        {
+            "name": "HangerExtenderExtended"
+        },
+        {
+            "name": "Harmony2"
+        },
+        {
+            "name": "HeatControl"
+        },
+        {
+            "name": "KerbalActuators"
+        },
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        },
+        {
+            "name": "ModularFlightIntegrator"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "NearFutureAeronautics"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureElectrical-Core"
+        },
+        {
+            "name": "NearFutureExploration"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSolar-Core"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "NearFutureSpacecraft-OrbitalLFOEngines"
+        },
+        {
+            "name": "OtherWorlds"
+        },
+        {
+            "name": "Parallax"
+        },
+        {
+            "name": "Parallax-StockScatterTextures"
+        },
+        {
+            "name": "Parallax-StockTextures"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "PlanetShine-Config-Default"
+        },
+        {
+            "name": "ReentryParticleEffect"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "RocketSoundEnhancement"
+        },
+        {
+            "name": "RocketSoundEnhancement-Config-Default"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Scatterer-config"
+        },
+        {
+            "name": "Scatterer-sunflare"
+        },
+        {
+            "name": "SpaceDust"
+        },
+        {
+            "name": "StockWaterfallEffects"
+        },
+        {
+            "name": "SystemHeat"
+        },
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "WaterfallRestock"
+        }
+    ],
+    "release_date": "2023-02-16T09:39:49.9292792-06:00",
+    "kind": "metapackage"
+}
