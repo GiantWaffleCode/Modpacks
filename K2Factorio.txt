@@ -8,6 +8,11 @@ Factorio Library
 Helmod: Assistant for planning your factory
 Krastorio 2
 Krastorio 2 Assets
+Power Grid Comb
+Text Plates
+Santas Nixie Tubes
+Stack Size Debug
+
 
 
 Map String:
