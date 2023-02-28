@@ -12,7 +12,7 @@ Krastorio 2
 Krastorio 2 Assets
 Power Grid Comb
 Santas Nixie Tube Display
-Stack Size Debug
+Stack Size Tooltip
 Text Plates
 
 
