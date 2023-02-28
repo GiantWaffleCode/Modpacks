@@ -10,6 +10,7 @@ Factorio Library
 Helmod: Assistant for planning your factory
 Krastorio 2
 Krastorio 2 Assets
+Pipe Visualizer
 Power Grid Comb
 Santas Nixie Tube Display
 Stack Size Tooltip
