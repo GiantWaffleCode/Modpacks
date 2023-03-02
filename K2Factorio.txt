@@ -3,8 +3,10 @@ Krastorio 2 Modpack:
 Afraid of the Dark
 Alien Biomes
 Alien Biomes High-Res Terrain
+Automatic Train Painter
 Base mod
 Disco Science
+Editor Extensions
 EvoGUI
 Factorio Library
 Helmod: Assistant for planning your factory
@@ -12,10 +14,12 @@ Krastorio 2
 Krastorio 2 Assets
 Pipe Visualizer
 Power Grid Comb
+Pushbutton
 Santas Nixie Tube Display
 Stack Size Tooltip
 Text Plates
 Train Trails
+Todo List
 
 Map String:
 
