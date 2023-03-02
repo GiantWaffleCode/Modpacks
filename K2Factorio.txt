@@ -5,6 +5,7 @@ Alien Biomes
 Alien Biomes High-Res Terrain
 Automatic Train Painter
 Base mod
+Cleaned Concrete (Mod Compatible)
 Disco Science
 Editor Extensions
 EvoGUI
@@ -16,6 +17,7 @@ Pipe Visualizer
 Power Grid Comb
 Pushbutton
 Santas Nixie Tube Display
+Squeak Through
 Stack Size Tooltip
 Text Plates
 Train Trails
