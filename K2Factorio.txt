@@ -14,6 +14,7 @@ Helmod: Assistant for planning your factory
 Honk
 Krastorio 2
 Krastorio 2 Assets
+Mushroom Cloud
 Pipe Visualizer
 Power Grid Comb
 Pushbutton
