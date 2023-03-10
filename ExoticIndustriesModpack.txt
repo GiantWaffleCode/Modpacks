@@ -28,7 +28,7 @@ Explosive Biters
 Factorio Library
 Factorio Standard Library
 Flow Control
-Fluids Must Flow
+Fluid Must Flow
 Helmod: Assistant for planning your factory
 Honk
 Industrial Display Plates
@@ -43,7 +43,7 @@ Picker Inventory Tools
 Pipe Visualizer
 Power Grid Comb
 Pushbutton
-Santas Nixie Tube Display
+Santa's Nixie Tube Display
 Simulation Helper
 Spidertron Enhancements
 Spidertron Patrols
@@ -52,7 +52,7 @@ Stack Size Tooltip
 Stats GUI
 Text Plates
 Train Trails
-Train Updrader
+Train Upgrader
 Todo List
 Toxic Biters
 
