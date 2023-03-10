@@ -1,5 +1,9 @@
 Waffle's Exotic Industries Modpack
 
+This is a modpack based around the Exotic Industries Mod.
+Many QOL mods have been added to enhance gameplay but can be removed easily. 
+
+
 Afraid of the Dark
 Automatic Train Painter
 Base mod
