@@ -1,1 +1,34 @@
 Waffle's Exotic Industries Modpack
+
+Afraid of the Dark
+Automatic Train Painter
+Base mod
+Bottleneck Lite
+Bullet Trails
+Calculator UI
+Cleaned Concrete (Mod Compatible)
+Dectorio
+Disco Science
+Editor Extensions
+Enhanced Map Colors
+Factorio Library
+Helmod: Assistant for planning your factory
+Honk
+Landfill Everything
+MOdule Inserter Simplified
+Mushroom Cloud
+Picker Atheneum
+Picker Inventory Tools
+Pipe Visualizer
+Power Grid Comb
+Pushbutton
+Santas Nixie Tube Display
+Squeak Through
+Stack Size Tooltip
+Stats GUI
+Text Plates
+Train Trails
+Todo List
+
+Map String:
+[Put Map String Here]
