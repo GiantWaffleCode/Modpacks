@@ -5,34 +5,68 @@ Many QOL mods have been added to enhance gameplay but can be removed easily.
 
 
 Afraid of the Dark
+Armoured Biters
 Automatic Train Painter
 Base mod
 Bottleneck Lite
 Bullet Trails
 Calculator UI
 Cleaned Concrete (Mod Compatible)
+Constructron-Continued
 Dectorio
 Disco Science
 Editor Extensions
 Enhanced Map Colors
+Exotic Industries
+Exotic Industries: Containers
+Exotic Industries: Graphics
+Exotic Industries: Loaders
+Exotic Industries: Official Modpack
+Exotic Industries: Robots
+Exotic Industries: Tanks
+Explosive Biters
 Factorio Library
+Factorio Standard Library
+Flow Control
+Fluids Must Flow
 Helmod: Assistant for planning your factory
 Honk
+Industrial Display Plates
+Informatron
 Landfill Everything
-MOdule Inserter Simplified
+Milestones
+Module Inserter Simplified
 Mushroom Cloud
+Nanobots: Early Bots
 Picker Atheneum
 Picker Inventory Tools
 Pipe Visualizer
 Power Grid Comb
 Pushbutton
 Santas Nixie Tube Display
+Simulation Helper
+Spidertron Enhancements
+Spidertron Patrols
 Squeak Through
 Stack Size Tooltip
 Stats GUI
 Text Plates
 Train Trails
+Train Updrader
 Todo List
+Toxic Biters
 
 Map String:
-[Put Map String Here]
+>>>eNp1UTtLK0EUPscY1ICaIo0gmsI2go/CQjOjKCI+/oJ3szvRh
+ZgNa1LoLW4KS8XGRhttVbCzsAsIoqBw0UY7xcbiPiKKNkKcs5tJ1
+mQ9cM5+c75vzmMWAWEGXGMABdbaqFta6vDgIA7AOUCehXQrkxF2z
+LKFN92i2zlDxCzzi7hVmPNUIJbRsvqil2l3GKdSHUe3FqyU4c+Yt
+pX2Z1JCM/w7pYVlrCzVc2HJ5WwtbeZ8yJBIi6WVWEJbFnRU3uwMU
+LN+MGsLseyVAd7+3xrPr3UBeekXREslconu5euSA+ZdpcwpC+opM
+5kEiI5KH3NEiD8jR5MPq1sMXU0vL4NiOVNIqMyUAnP8W6pHgUFPn
+QHHXjzAbZqVLcqqZl4FLrlGJOLG3+O997NCHD/2n69nEz8Y9k1E/
+hX7j+KSbqIVGiphZ5vsRK0CquY9K1N3DK8uyf4wDNKNCAU+JENhO
+gAYbpNob12GaCeo0eKqTIRj0rE3tcmjAjesdg/5EMNUvIvCOQWnY
+WUydCHf5Mi7FdtRlcj7/eCdwahueKHannr61wxS/yO8e9RkerjPb
+whRQ6MSngKVaeR7/m5SJ77LMUCAVK8y556IUaXcb5g7zx2AqhUZX
+GVeRz4Bspfasg==<<<
