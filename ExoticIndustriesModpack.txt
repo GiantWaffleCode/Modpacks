@@ -27,9 +27,9 @@ Exotic Industries: Tanks
 Explosive Biters
 Factorio Library
 Factorio Standard Library
+Factory Planner
 Flow Control
 Fluid Must Flow
-Helmod: Assistant for planning your factory
 Honk
 Industrial Display Plates
 Informatron
